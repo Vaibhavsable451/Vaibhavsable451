@@ -1,20 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=180&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=VAIBHAV%20SABLE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLMs&descAlignY=55&descSize=20" width="100%"/>
 </p>
-
-<table>
-<tr>
-<td width="220" align="center">
-  <img src="profile.png" alt="Vaibhav Sable" width="180" style="border-radius:50%;" />
-</td>
-<td>
-
-# Hi 👋, I'm Vaibhav Sable
-### AI Engineer | GenAI • LLMs • RAG • Agentic AI | LangChain • LangGraph • CrewAI
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+AI+Systems;RAG+%2B+LLMs+%2B+Vector+Search;LangGraph+%7C+CrewAI+%7C+FastAPI+%7C+Groq;MLOps+%3A+MLflow+%2B+Docker+%2B+Kubernetes" alt="Typing SVG" />
