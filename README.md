@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaibhavsable451&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/vaibhav-sable-59b56827a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vaibhavsable-ai-engineer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vaibhavsable150@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -25,21 +25,53 @@
 - 💼 Actively looking for **AI Engineer / GenAI Engineer / Agentic AI Developer** roles — Immediate Joiner
 - 🏆 **50+ DSA problems solved** • Certified in Prompt Engineering, AI Agents, MCP
 - 💬 Ask me about: **RAG pipelines, LangGraph, Multi-Agent Systems, Vector Databases, MLOps**
-- 📄 **[Resume](https://drive.google.com/file/d/1iOuq7scLAK-3hLHbzvyhqhrMlTIE8sJi/view)** • 🌐 **[Portfolio](https://portfolio-vkkz.onrender.com)** • 🧩 **[LeetCode](https://leetcode.com/u/vaibhavsable122/)**
+- 📄 **[Resume](https://drive.google.com/file/d/17rbgnv4zk4KwYSFvQCOgeVsDAJvSVGRB/edit)** • 🌐 **[Portfolio](https://portfolio-vkkz.onrender.com)** • 🧩 **[LeetCode](https://leetcode.com/u/vaibhavsable122/)**
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
+
+**🤖 Agentic AI / RAG / Multi-Agent Systems**
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **Enterprise AI Customer Support Platform** | LangGraph, RAG, Pinecone, FastAPI, MLflow, Docker, K8s | Multi-agent support with confidence-based escalation, K8s deployed |
-| **ResumeForgeAI (Agentic ATS Resume Generator)** | LangGraph, Pinecone, Groq, FastAPI, Streamlit | Multi-agent ATS builder analyzing JDs + GitHub profiles |
-| **Multi-Agent Sales & Support System** | LangGraph, Groq, Supervisor Architecture | Real-time conversation routing — [Live Demo](https://agentfd.netlify.app) |
-| **Cricket Multi-Agent Factory** | n8n, Groq, SerpAPI | Agent ecosystem for live scores, stats & analysis, built fully in n8n |
-| **Multi-Agent AI Research System** | LangChain, Groq, Streamlit, BeautifulSoup | Search → Reader → Writer → Critic agent pipeline |
-| **Voice AI Agent** | Groq Whisper, ElevenLabs TTS, Streamlit | Real-time voice-based conversational AI |
-| **HR Policy Assistant** | n8n, RAG, Pinecone Namespaces | Supervisor + specialist RAG agents for policy Q&A |
+| **[AI-Customer-Support-Command-Center](https://github.com/Vaibhavsable451/AI-Customer-Support-Command-Center)** | LangGraph, RAG, Pinecone, FastAPI, MLflow, Docker, K8s | Multi-agent support with confidence-based escalation |
+| **[ResumeForgeAI-Multi-Agent-ATS-Resume-Builder](https://github.com/Vaibhavsable451/ResumeForgeAI-Multi-Agent-ATS-Resume-Builder-)** | LangGraph, Pinecone, Groq, FastAPI | Multi-agent ATS builder analyzing JDs + GitHub profiles |
+| **[Agentic-ATS-Resume-Generator](https://github.com/Vaibhavsable451/Agentic-ATS-Resume-Generator)** | Python, LangGraph, Pinecone, Groq | ATS scoring engine, semantic + keyword matching |
+| **[multi_agent_sales_support](https://github.com/Vaibhavsable451/multi_agent_sales_support)** | n8n, Groq, Supervisor Architecture | Real-time conversation routing — [Live Demo](https://agentfd.netlify.app) |
+| **[Cricket-Multi-Agent-Factory-Supervisor-6-Agents](https://github.com/Vaibhavsable451/Cricket-Multi-Agent-Factory-Supervisor-6-Agents---Groq-v2)** | n8n, Groq, SerpAPI | 6 specialist agents for live scores, stats & analysis |
+| **[Multi-Agent-AI-Research-System](https://github.com/Vaibhavsable451/Multi-Agent-AI-Research-System)** | LangChain, Groq, Streamlit, BeautifulSoup | Search → Reader → Writer → Critic agent pipeline |
+| **[Agentic-AI-YouTube-Summarizer-Multi-Agent-System](https://github.com/Vaibhavsable451/Agentic-AI-YouTube-Summarizer-Multi-Agent-System-)** | Python, LangChain, Groq | 4-agent pipeline for YouTube video summarization |
+| **[Q-A-AI-Agent-with-RAG-using-n8n](https://github.com/Vaibhavsable451/Q-A-AI-Agent-with-RAG-using-n8n-)** | n8n, RAG, Pinecone | Retrieval-grounded Q&A agent workflow |
+| **[AI-Sales-Intelligence-Agent](https://github.com/Vaibhavsable451/AI-Sales-Intelligence-Agent)** | n8n, Groq, SerpAPI | Website analysis + pain-point detection via multi-agents |
+| **[Advanced-Real-Time-AI-Personal-Assistant](https://github.com/Vaibhavsable451/Advanced-Real-Time-AI-Personal-Assistant)** | Python | Real-time conversational AI assistant |
+| **[Ai-Peronal-Assitant-JArvis](https://github.com/Vaibhavsable451/Ai-Peronal-Assitant-JArvis)** | HTML, JS | Voice-based personal AI assistant |
+| **[Job-Finder-AI-Agent](https://github.com/Vaibhavsable451/Job-Finder-AI-Agent)** | Python, Groq | AI-powered job search automation |
+| **[Job-Mail-AI-Tracker](https://github.com/Vaibhavsable451/Job-Mail-AI-Tracker)** | Python | AI-based job application email tracker |
+| **[Resume-Anlayzer](https://github.com/Vaibhavsable451/Resume-Anlayzer)** | Python | Resume parsing & analysis tool |
+| **[Tech-Release-Email-Agent](https://github.com/Vaibhavsable451/Tech-Release-Email-Agent-Java-React-Groq-AI-n8n-)** | Java, React, Groq, n8n | Automated tech release email agent |
+| **[Spring-AI-Build-Generative-AI-application](https://github.com/Vaibhavsable451/Spring-AI-Build-Generative-AI-application-)** | Java, Spring AI | Generative AI application on Spring Boot |
+| **[ai-house-price-prediction](https://github.com/Vaibhavsable451/ai-house-price-prediction)** | Jupyter Notebook, ML | ML regression model for price prediction |
+
+**💻 Full-Stack & Java**
+
+| Project | Stack |
+|---|---|
+| **[Employee-Management-System](https://github.com/Vaibhavsable451/Employee-Management-System)** | Java, Spring Boot, MySQL |
+| **[Ecommerce_multivendor](https://github.com/Vaibhavsable451/Ecommerce_multivendor)** | TypeScript, React |
+| **[ecommerce-website-with-n8n-ai-chatbot](https://github.com/Vaibhavsable451/ecommerce-website-with-n8n-ai-chatbot)** | HTML, n8n AI Chatbot |
+| **[Chatbot](https://github.com/Vaibhavsable451/Chatbot)** | CSS, JS |
+
+**🎨 Frontend / Portfolio**
+
+| Project | Stack |
+|---|---|
+| **[portfolio](https://github.com/Vaibhavsable451/portfolio)** | TypeScript |
+| **[3d-Portfolio-Website](https://github.com/Vaibhavsable451/3d-Portfolio-Website)** | HTML, Three.js — 3D interactive portfolio |
+| **[vibecodeAnimated-Website](https://github.com/Vaibhavsable451/vibecodeAnimated-Website)** | TypeScript |
+| **[Gym-FitnesWebsite](https://github.com/Vaibhavsable451/Gym-FitnesWebsite)** | HTML |
+
+📌 **[View all repositories →](https://github.com/Vaibhavsable451?tab=repositories)**
 
 ---
 
@@ -139,7 +171,7 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 <p>
-<a href="https://linkedin.com/in/vaibhav-sable-59b56827a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" /></a>
+<a href="https://www.linkedin.com/in/vaibhavsable-ai-engineer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" /></a>
 <a href="https://github.com/Vaibhavsable451"><img src="https://cdn.simpleicons.org/github/white" height="35" /></a>
 <a href="mailto:vaibhavsable150@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="35" /></a>
 </p>
