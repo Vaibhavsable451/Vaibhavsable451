@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="profile.png" alt="Profile Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=VAIBHAV%20SABLE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLMs&descAlignY=55&descSize=20" width="100%"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Vaibhav Sable</h1>
-<h3 align="center">AI Engineer | GenAI • LLMs • RAG • Agentic AI | LangChain • LangGraph • CrewAI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+AI+Systems;RAG+%2B+LLMs+%2B+Vector+Search;LangGraph+%7C+CrewAI+%7C+FastAPI+%7C+Groq;MLOps+%3A+MLflow+%2B+Docker+%2B+Kubernetes" alt="Typing SVG" />
@@ -155,7 +152,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsable451&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsable451&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=false" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsable451&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -166,6 +163,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsable451&theme=tokyo-night&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavsable451&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+</p>
+
+<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+<!--END_SECTION:waka-->
 
 ---
 
