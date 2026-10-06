@@ -1,10 +1,6 @@
 <a id="top"></a>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:2C5364,100:00F7FF&height=260&section=header&text=VAIBHAV%20SABLE&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG%20%E2%80%A2%20MCP%20%E2%80%A2%20AI%20Governance&descAlignY=60&descSize=20" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vaibhavsable451"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+build+production-grade+Agentic+AI+systems;Multi-Agent+Orchestration+%7C+LangGraph+%7C+CrewAI+%7C+MCP;GraphRAG+%2B+Vector+Search+%2B+Multilingual+RAG;AI+Governance+%2B+Observability+%2B+MLOps;Open+to+work+%E2%80%94+Immediate+Joiner+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/Vaibhavsable451/Vaibhavsable451/main/assets/header.svg" alt="AI Engineer - Vaibhav Sable" width="100%"/>
 </p>
 
 <p align="center">
